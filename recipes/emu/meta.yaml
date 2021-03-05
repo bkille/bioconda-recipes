@@ -7,7 +7,7 @@ package:
 
 source:
   url: 'https://gitlab.com/treangenlab/emu/-/archive/v{{version}}/emu-v{{version}}.tar.gz'
-  sha256: 4f76abd9a34480ee9dcea40e47b35317731f9f24fc57cb94aed1ca0b87b144ea
+  sha256: 4cbc68cabdd8d8861b8a81b9543fd2b5d957d2b7d2781cac82a8d8e85ca42ce9
 
 
 build:
